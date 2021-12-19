@@ -5,7 +5,7 @@ public class NameAndNumber {
 public static void main(String[] args) {
 	String name="Nishigandha";
 	int num=999;
-	String s1="madhu";
+	String s1="Madhuri";
 	int n1=1;
 	String s2="sonali";
 	int n2=20;
